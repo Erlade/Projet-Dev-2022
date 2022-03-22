@@ -19,13 +19,13 @@ _Projet scolaire Dev 2022_
 
 ### Explication du projet Gatcha / Autobattler :
 
-Un jeu ou on a des persos / cartes avec des statistiques définies. Un système de drop d'équipement aux stats aléatoires et des combats automatiques.
+Un jeu où on a des persos / cartes avec des statistiques définies. Un système de drop d'équipement aux stats aléatoires et des combats automatiques.
 
-- Système de compte pour les joueurs - Model de donnée : 1 point
-- Système de héros avec des statistiques fixe par niveau : Model de donnée + CRUD : 4 points
+- Système de compte pour les joueurs - Modèle de donnée : 1 point
+- Système de héros avec des statistiques fixes par niveau : Modèle de donnée + CRUD : 4 points
 - Possibilité de créer une équipe de héros : 1 point
 - Système d'expérience et de niveau pour les héros : 1 point
-- Système d'équipement par héro : 3-4 points
+- Système d'équipement par héros : 3-4 points
 - Système de loot aléatoire d'item défini (en % table de loot) : 3 points de base
 - Système de gain de monnaie en fin de combat (Deux monnaies, une pour l'achat, l'autre pour l'upgrade)
 - Monnaie 1 (Gold) permet de : Acheter des héros et de l'équipement
@@ -37,20 +37,20 @@ Un jeu ou on a des persos / cartes avec des statistiques définies. Un système 
 
 **Calcul des points de difficultés :**
 
-| Points         | Fonctionnalités                                        |
-| -------------- | ------------------------------------------------------ |
-| 1              | Système de compte utilisateur                          |
-| 4              | Système de héros avec des statistiques fixe par niveau |
-| 1              | Possibilité de créer une équipe de héros               |
-| 1              | Système d'expérience et de niveau pour les héros       |
-| 2              | Système d'équipements améliorable                      |
-| 4              | Système d'équipements par héro                         |
-| 3              | Système de loot - Table de loot                        |
-| 5              | Système de combat automatique contre des Mobs          |
-| 5              | Gestion de tours de jeu pour les combats               |
-| 2              | Système de gain de monnaie                             |
-| 1              | Système d'upgrade avec la monnaie                      |
-| 1              | Système d'achat avec la monnaie                        |
-| 2              | Système de shop                                        |
-| 3              | GUI Fonctionnelle                                      |
-| **Total : 33** | 🎉                                                     |
+| Points         | Fonctionnalités                                         |
+| -------------- | ------------------------------------------------------- |
+| 1              | Système de compte utilisateur                           |
+| 4              | Système de héros avec des statistiques fixes par niveau |
+| 1              | Possibilité de créer une équipe de héros                |
+| 1              | Système d'expérience et de niveau pour les héros        |
+| 2              | Système d'équipements améliorable                       |
+| 4              | Système d'équipements par héro                          |
+| 3              | Système de loot - Table de loot                         |
+| 5              | Système de combat automatique contre des Mobs           |
+| 5              | Gestion de tours de jeu pour les combats                |
+| 2              | Système de gain de monnaie                              |
+| 1              | Système d'upgrade avec la monnaie                       |
+| 1              | Système d'achat avec la monnaie                         |
+| 2              | Système de shop                                         |
+| 3              | GUI Fonctionnelle                                       | 
+| **Total : 33** | 🎉                                                      |
