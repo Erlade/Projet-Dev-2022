@@ -10,6 +10,8 @@ _Projet scolaire Dev 2022_
 
 **Fin : 15/05/2022**
 
+[Les groupes](https://auvencecom-my.sharepoint.com/:x:/g/personal/calvin_seaphanh_ynov_com/EUxJSOmsdAxIrsbqKYzvEjsBMn_ozul2SBlZ9ViMvaduCg?e=mo5wek)
+
 ### Idées de projets :
 
 - Gatcha / AutoBatller ✔
