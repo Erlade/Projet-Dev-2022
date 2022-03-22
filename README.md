@@ -17,4 +17,4 @@ _Projet scolaire Dev 2022_
 
 ### Explication du projet Gatcha / Autobattler :
 
-Un jeu ou on as des persos / cartes avec des statistiques défini. Un système de drop d'équipement aux stats aléatoire et des combats automatiques.
+Un jeu ou on a des persos / cartes avec des statistiques définies. Un système de drop d'équipement aux stats aléatoires et des combats automatiques.
